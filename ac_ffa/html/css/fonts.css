@@ -1,0 +1,79 @@
+@font-face {
+    font-family: 'Akrobat-Black';
+    src: url("../font/Akrobat-Black.otf");
+}
+
+@font-face {
+    font-family: 'Akrobat-ExtraBold';
+    src: url("../font/Akrobat-ExtraBold.otf");
+}
+
+@font-face {
+    font-family: 'Akrobat-Bold';
+    src: url("../font/Akrobat-Bold.otf");
+}
+
+@font-face {
+    font-family: 'Akrobat-Regular';
+    src: url("../font/Akrobat-Regular.otf");
+}
+
+@font-face {
+    font-family: 'Akrobat-Light';
+    src: url("../font/Akrobat-Light.otf");
+}
+@font-face {
+    font-family: 'Akrobat-SemiBold';
+    src: url('../font/Akrobat-SemiBold.otf');
+}
+
+@font-face {
+    font-family: 'Shadows Highstter';
+    src: url("../font/ShadowsHighstter.otf");
+}
+
+@font-face {
+    font-family: 'Gilroy';
+    src: url("../font/Gilroy-Regular.ttf");
+}
+
+@font-face {
+    font-family: 'Gilroy-Medium';
+    src: url("../font/Gilroy-Medium.ttf");
+}
+
+@font-face {
+    font-family: 'Gilroy-Bold';
+    src: url("../font/Gilroy-Bold.ttf");
+}
+
+@font-face {
+    font-family: 'Gilroy-SemiBold';
+    src: url("../font/Gilroy-SemiBold.ttf");
+}
+
+@font-face {
+    font-family: 'Gilroy-ExtraBold';
+    src: url("../font/Gilroy-ExtraBold.ttf");
+}
+
+@font-face {
+    font-family: 'Gilroy-Regular';
+    src: url("../font/Gilroy-Regular.ttf");
+}
+
+@font-face {
+    font-family: 'Gilroy-Light';
+    src: url("../font/Gilroy-Light.ttf");
+}
+
+@keyframes slideUp {
+    from {
+        transform: translateX(50%) translateY(100%);
+        opacity: 0;
+    }
+    to {
+        transform: translateX(50%) translateY(0);
+        opacity: 1;
+    }
+}
