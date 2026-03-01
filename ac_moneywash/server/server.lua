@@ -24,7 +24,7 @@ function SendWebhook(webhook, title, description, fields)
     })
 end
 
-function AC_AUTH:loadCode()
+function AC_SCRIPTS:loadCode()
     function self:Initialize()
         self.processes = {}
         self:LoadProcessesFromDB()
@@ -377,4 +377,5 @@ end
 
 CreateThread(function()
     AC_SCRIPTS:loadCode()
+
 end)
