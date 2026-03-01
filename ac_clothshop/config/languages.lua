@@ -1,0 +1,32 @@
+Lang = {
+    ['de'] = {
+        ['interact'] = 'Drücke ~INPUT_CONTEXT~ um dein Outfit zu ändern',
+        ['wait_message'] = 'Bitte warte kurz, bevor du das erneut versuchst.',
+        ['bought_and_saved'] = 'Du hast %s$ für neue Kleidung bezahlt und als "%s" gespeichert!',
+        ['bought'] = 'Du hast %s$ für neue Kleidung bezahlt!',
+        ['not_enough_money'] = 'Du hast nicht genug Geld! (%s$)',
+        ['webhook_title'] = '👔 Outfit Gekauft',
+        ['webhook_description'] = '**Spieler:** %s\n**Identifier:** %s\n**Preis:** %s$\n**Outfit Name:** %s',
+        ['webhook_not_saved'] = 'Nicht gespeichert',
+    },
+    ['en'] = {
+        ['interact'] = 'Press ~INPUT_CONTEXT~ to change your outfit',
+        ['wait_message'] = 'Please wait a moment before trying again.',
+        ['bought_and_saved'] = 'You paid %s$ for new clothes and saved it as "%s"!',
+        ['bought'] = 'You paid %s$ for new clothes!',
+        ['not_enough_money'] = 'You don\'t have enough money! (%s$)',
+        ['webhook_title'] = '👔 Outfit Purchased',
+        ['webhook_description'] = '**Player:** %s\n**Identifier:** %s\n**Price:** %s$\n**Outfit Name:** %s',
+        ['webhook_not_saved'] = 'Not saved',
+    },
+    ['fr'] = {
+        ['interact'] = 'Appuyez sur ~INPUT_CONTEXT~ pour changer votre tenue',
+        ['wait_message'] = 'Veuillez patienter un instant avant de réessayer.',
+        ['bought_and_saved'] = 'Vous avez payé %s$ pour de nouveaux vêtements et les avez enregistrés sous "%s" !',
+        ['bought'] = 'Vous avez payé %s$ pour de nouveaux vêtements !',
+        ['not_enough_money'] = 'Vous n\'avez pas assez d\'argent ! (%s$)',
+        ['webhook_title'] = '👔 Tenue Achetée',
+        ['webhook_description'] = '**Joueur:** %s\n**Identifiant:** %s\n**Prix:** %s$\n**Nom de la tenue:** %s',
+        ['webhook_not_saved'] = 'Non enregistré',
+    },
+}
